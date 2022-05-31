@@ -1,4 +1,0 @@
-# eka-projekti
-
-
-Lue minut 
